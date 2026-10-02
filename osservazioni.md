@@ -33,10 +33,12 @@ Viene stampata la frase Hello, computational physics!
 ## Step 1 — Git
 
 Quali file ho incluso nel commit e perché:
-ho incluso hello.c e osservazioni.md. Non ho incluso hello perchè questo tipo di file non deve essere tracciato sdu Github in quanto dipende dal sistema operativo 
-Come ho verificato che la versione provata sia presente su GitHub:
+ho incluso hello.c e osservazioni.md. Non ho incluso hello perchè questo tipo di file non deve essere tracciato sdu Github in quanto dipende dal sistema operativo
 
+Come ho verificato che la versione provata sia presente su GitHub:
+Ho aperto il browser per verificare che il testo fosse aggiornato con le modifiche fatte 
 Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:
+non serve un nuovo clone poichè il comando git pull scarica solamente le modifiche mancanti 
 
 ## Step 2 — Eco: prima prova
 
